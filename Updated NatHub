@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nathubofficial/Nat_HubV2.3/refs/heads/main/Updated"))()
